@@ -1,6 +1,6 @@
 <h1> Checador Polideportivo </h1>
 
-<h2>Requerimientos del sistema<h2>
+<h2>Requerimientos del sistema</h2>
 Windows 10 o superior
 Java version ?
 JavaFX version ?
